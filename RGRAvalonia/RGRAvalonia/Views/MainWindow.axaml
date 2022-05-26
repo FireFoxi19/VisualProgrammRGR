@@ -1,0 +1,29 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:RGRAvalonia.ViewModels"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="400" d:DesignHeight="450"
+        x:Class="RGRAvalonia.Views.MainWindow"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="UKСобачьиБега">
+
+    <Design.DataContext>
+        <vm:MainWindowViewModel/>
+    </Design.DataContext>
+
+		<Grid RowDefinitions = "Auto, *" Classes="mainContainer">
+			
+		    <Border Classes="header" Grid.Row="0">
+		        <StackPanel Classes="title">
+					<TextBlock Classes="title">Таблицы</TextBlock>
+					<Canvas>
+						<Button Background="Aqua" Content="Статистика собак" Canvas.Top="0" Canvas.Left="1"/>
+						<Button Background="Aqua" Content="Тренера" Canvas.Top="30" Canvas.Left="1"/>
+						<Button Background="Aqua" Content="Место Забега" Canvas.Top="60" Canvas.Left="1"/>
+					</Canvas>
+				</StackPanel>
+			</Border>
+			
+	    </Grid>
+</Window>
