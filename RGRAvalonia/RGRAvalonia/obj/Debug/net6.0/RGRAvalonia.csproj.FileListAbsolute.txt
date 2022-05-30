@@ -1,5 +1,0 @@
-C:\Users\Татьяна\Desktop\RGRAvalonia\RGRAvalonia\obj\Debug\net6.0\RGRAvalonia.csproj.AssemblyReference.cache
-C:\Users\Татьяна\Desktop\RGRAvalonia\RGRAvalonia\obj\Debug\net6.0\RGRAvalonia.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Татьяна\Desktop\RGRAvalonia\RGRAvalonia\obj\Debug\net6.0\RGRAvalonia.AssemblyInfoInputs.cache
-C:\Users\Татьяна\Desktop\RGRAvalonia\RGRAvalonia\obj\Debug\net6.0\RGRAvalonia.AssemblyInfo.cs
-C:\Users\Татьяна\Desktop\RGRAvalonia\RGRAvalonia\obj\Debug\net6.0\RGRAvalonia.csproj.CoreCompileInputs.cache
